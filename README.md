@@ -1,1 +1,1 @@
-To run it on your local system download all the files and open index.html file 
+To run it on your local system download all the files and open index.html file <br> or open the link below <br> \[https://vishesh-juyal.github.io/Amazon-clone/](https://vishesh-juyal.github.io/Amazon-clone/)
